@@ -50,12 +50,10 @@
     <td align="center"><a href="https://github.com/yellowjang"><b>yellowjang</b></a></td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<br/></td>
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-</td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></td>
   </tr> 
   <tr>
     <td align="center"><a href="https://github.com/yeopbuddy"><img src="https://avatars.githubusercontent.com/yeopbuddy" width ="130px;" alt=""></a></td>
@@ -70,7 +68,7 @@
     <td align="center"><b></b></td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
     <td align="center"></td>
     <td align="center"><br/>
     <td align="center"><br/></td>

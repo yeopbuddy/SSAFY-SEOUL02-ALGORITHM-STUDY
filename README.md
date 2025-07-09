@@ -17,17 +17,20 @@
   </tr>
   <tr>
     <td>⏰ 정기 스터디 시간</td>
-    <td>매주 금요일 AM 08:00</td>
+    <td>매주 월요일 PM 07:00</td>
   </tr>
   <tr>
     <td>📝 플랫폼</td>
-    <td>SWEA, BOJ, SOFTEER</td>
+    <td> BOJ, PROGRAMMERS</td>
   </tr>
   <tr>
     <td>💻 언어</td>
     <td>
         <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+
+<!--         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
+      
     </td>
   </tr>
 </table>
@@ -45,44 +48,41 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>EUNJAE1012</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>whitepodo</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>yellowjang</b></a></td>
+    <td align="center"><a href="https://github.com/EUNJAE1012"><b>EUNJAE1012</b></a></td>
+    <td align="center"><a href="https://github.com/whitepodo"><b>whitepodo</b></a></td>
+    <td align="center"><a href="https://github.com/yellowjang"><b>yellowjang</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/C%23-be70ff?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<br/></td>
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+</td>
   </tr> 
   <tr>
     <td align="center"><a href="https://github.com/yeopbuddy"><img src="https://avatars.githubusercontent.com/yeopbuddy" width ="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
+    <td align="center"><img src="https://via.placeholder.com/130x130/FFFFFF/FFFFFF" width="130px;" alt=""></td>
+    <td align="center"><img src="https://via.placeholder.com/130x130/FFFFFF/FFFFFF" width="130px;" alt=""></td>
+    <td align="center"><img src="https://via.placeholder.com/130x130/FFFFFF/FFFFFF" width="130px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yeopbuddy"><b>yeopbuddy</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td>
-    <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td>
+    <td align="center"><b></b></td>
+    <td align="center"><b></b></td>
+    <td align="center"><b></b></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </td>
+    <td align="center"></td>
+    <td align="center"><br/>
+    <td align="center"><br/></td>
   </tr> 
 </table>
 
-<br/>
 
 ## 📌 스터디 규칙
-- 스터디는 매주 월요일에 숙제 검사한다.
-  - 1시간 30분: 코드 리뷰
-  - 30분: 자유 Q&A
-- 숙제 검사와 함께 다음 주 숙제를 협의를 통해 결정한다.
+- 스터디는 매주 월요일에 숙제를 검사하고, 오프라인 스터디를 수행합니다.
   
 <br/>
 
@@ -100,9 +100,9 @@
 ```
 
 ```
-📂 SSAFY-13th-Embedded-Algorithm-Study
+📂 SSAFY-seoul02-Algorithm-Study
  ├── 📂 gyeongpunch
- │    ├── 📂 2025_02
+ │    ├── 📂 2025_07
  │    │    ├── 📂 week_1
  │    │    │    ├── 📄 SWEA-다트게임.cpp
  │    │    │    ├── 📄 BOJ-12345.cpp
@@ -111,7 +111,7 @@
  │    │    │    ├── 📄 SWEA-문제제목.cpp
  │    │    │    ├── 📄 BOJ-67890.cpp
  │    │    │    ├── 📄 SOFTEER-AnotherProblem.cpp
- │    ├── 📂 2025_03
+ │    ├── 📂 2025_08
  │    │    ├── 📂 week_1
  │    │    │    ├── 📄 SWEA-새로운문제.cpp
  │    │    │    ├── 📄 BOJ-11223.cpp
@@ -127,14 +127,20 @@
 ```
 {태그}: {플랫폼_문제 번호_문제 제목} {커밋 메시지}
 ```
-- 플랫폼에 따라 없는 내용은 생략 가능
+
+```
+{태그} : N월 M주차 소스코드 제출/수정/최적화
+```
+
   
 </br>
 
 ### 💡 예시
 - `Feat: BOJ_12345_강의실 배정 알고리즘 구현`
-- `Fix: SWEA_54321_문제제목 코드 수정`
-- `Refactor: SOFTEER_67890_문제제목 코드 최적화`
+- `Feat: 7월 2주차 소스코드 제출
+- `Feat: PGMS_징검다리 알고리즘 구현`
+- `Fix: BOJ_54321_문제제목 코드 수정`
+- `Refactor: PGMS_정수 삼각형 코드 최적화`
 
 </br>
 
@@ -143,8 +149,8 @@
 | 플랫폼    | 태그  |
 |:-------|:----|
 | 백준     | BOJ |
-| SWEA    | SWEA |
-| 소프티어   | SOFTEER |
+| 프로그래머스    | PGMS |
+
 
 </br>
 
@@ -166,16 +172,14 @@
 
 ## ⚠️ PR 규칙
 
-- PR 문제 수가 많다면 문제 제목은 생략 가능
+- [날짜] o월 o주차 소스코드 제출
 
 ```
 [날짜] {플랫폼} {문제 제목} - {기타 내용}
 ```
 
 ### 💡 예시
-- `[240201] SOFTEER 강의실배정 - C++ Lv3 1문제`
-- `[240201] SOFTEER - C++ Lv3 2문제, Lv4 1문제`
-
+- `[240710] N월 M주차 소스코드 제출
 ---
 
 <br/>

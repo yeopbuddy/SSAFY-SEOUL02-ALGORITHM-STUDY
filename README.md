@@ -39,15 +39,15 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/gyeongpunch"><img src="https://avatars.githubusercontent.com/gyeongpunch" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://avatars.githubusercontent.com/sample" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/EUNJAE1012"><img src="https://avatars.githubusercontent.com/EUNJAE1012" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/whitepodo"><img src="https://avatars.githubusercontent.com/whitepodo" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yellowjang"><img src="https://avatars.githubusercontent.com/yellowjang" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/gyeongpunch"><b>gyeongpunch</b></a></td>
-<!--     <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td> -->
-<!--     <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td> -->
-<!--     <td align="center"><a href="https://github.com/sample"><b>sample</b></a></td> -->
+    <td align="center"><a href="https://github.com/sample"><b>EUNJAE1012</b></a></td>
+    <td align="center"><a href="https://github.com/sample"><b>whitepodo</b></a></td>
+    <td align="center"><a href="https://github.com/sample"><b>yellowjang</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
